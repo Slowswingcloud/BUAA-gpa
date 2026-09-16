@@ -1,0 +1,26 @@
+渲染 HTML 长度：59583
+
+PASS  学期分组数量（8 个学期，无自定义课程分组）  →  8
+PASS  课程行数量  →  65
+PASS  含概率统计A  →  true
+PASS  含基础物理实验（1）  →  true
+PASS  含基础物理实验（2）  →  true
+PASS  含软件工程伦理与职业规范  →  true
+PASS  含学科前沿讲座  →  true
+PASS  含开源软件开发导论  →  true
+PASS  含英文科技写作  →  true
+PASS  含综合素养课  →  true
+PASS  含一般专业必修课  →  true
+PASS  框架项数量  →  11
+PASS  初始 GPA 为 0（未填分数）  →  true
+PASS  待填门数提示存在  →  true
+PASS  分组标题 大一上  →  true
+PASS  分组标题 大一下  →  true
+PASS  分组标题 大一夏  →  true
+PASS  分组标题 大二上  →  true
+PASS  分组标题 大二下  →  true
+PASS  分组标题 大二夏  →  true
+PASS  分组标题 大三上  →  true
+PASS  分组标题 大三下  →  true
+
+全部通过
